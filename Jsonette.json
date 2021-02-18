@@ -101,10 +101,10 @@
                 },
                 {
                   "type": "button",
-                  "text": "Meow",
+                  "text": "Vutton",
                   "style": {
-                    "background": "rgb(100, 149, 237)",
-                    "color": "#000000",
+                    "background": "rgb(0, 0, 0)",
+                    "color": "#ffffff",
                     "align": "center",
                     "width": "150",
                     "height": "40"
@@ -131,18 +131,18 @@
                 {
                   "type": "image",
                   "class": "carousel_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/marge.png"
+                  "url": "http://pngimg.com/uploads/ironman/ironman_PNG84.png"
                 },
                 {
                   "type": "label",
-                  "text": "Marge Simpson",
+                  "text": "Iron Man",
                   "class": "username center"
                 },
                 {
                   "type": "button",
-                  "text": "Meow",
+                  "text": "Button",
                   "style": {
-                    "background": "rgb(100, 149, 237)",
+                    "background": "rgb(0, 0, 0)",
                     "color": "#ffffff",
                     "align": "center",
                     "width": "150",
