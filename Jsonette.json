@@ -38,11 +38,11 @@
     },
     "body": {
       "style": {
-        "background": "#000000"
+        "background": "#ECA73E"
       },
       "header": {
         "style": {
-          "background": "#ffffff"
+          "background": "#ECA73E"
         },
         "menu": {
           "text": "View JSON",
@@ -59,7 +59,7 @@
             "type": "horizontal",
             "style": {
               "align": "center",
-              "background": "#ffffff",
+              "background": "#ECA73E",
               "opacity": "0.2",
               "spacing": "10"
             },
@@ -101,7 +101,7 @@
                 },
                 {
                   "type": "button",
-                  "text": "Vutton",
+                  "text": "Button",
                   "style": {
                     "background": "rgb(0, 0, 0)",
                     "color": "#ffffff",
