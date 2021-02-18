@@ -1,0 +1,38 @@
+{
+	"$jason": {
+	 "head": {
+		  "title": "Dev Edited this Sections Example",
+		  "data": {
+		  	"superheros": [
+		  		{"name": "Spider-Man", "image": "https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.gif", "status": "Friendly Neighbourhood Spidey is swinging by"},
+		  		{"name": "Iron-Man", "image": "https://media.tenor.com/images/224349de69ba6a9f73ba8e7f3c271c46/tenor.gif", "status": "About to destroy Thanso"},
+		  		{"name": "Dr.Strange", "image": "https://media.tenor.com/images/7c40b524fa60afaf6bdf35c2a96ea68c/tenor.gif", "status": "Bring it on, Dr.Strange is ready"},
+		  		{"name": "Captain America", "image": "https://media.tenor.com/images/af359e6ba0c3fd1ed3e5bfd379929e13/tenor.gif", "status": "Avengers...Assemble"}
+		  	]
+		  },
+		  "templates": {
+		  	"body": {
+		  		"sections": [{
+		  			"items": {
+		  				"{{#each superheros}}": {
+		  					"type": "horizontal",
+		  					"style": {"spacing": "10"},
+		  					"components": [
+		  						{"type": "image", "url": "{{image}}", "style": {"width": "50", "height": "50", "corner_radius": "25"}},
+		  						{"type": "vertical",
+		  						 "style": {"spacing": "5"},
+		  						 "components": [
+		  						 	{"type": "label", "text": "{{name}}", "style": {"font": "HelveticaNeue-Bold", "size": "14"}},
+		  						 	{"type": "label", "text": "{{status}}", "style": {"color": "#cecece", "size": "12"}},
+		  						 	{"type": "image", "url": "{{image}}", "style": {"width": "100%"}}
+		  						 ]
+		  						}
+		  					]
+		  				}
+		  			}
+		  		}]
+		  	}
+		  }
+	  }
+	}
+}
