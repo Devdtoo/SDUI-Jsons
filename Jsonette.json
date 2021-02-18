@@ -74,7 +74,7 @@
               {
                 "type": "label",
                 "class": "bold",
-                "text": "horizontally scrolling section"
+                "text": "Horizontally scrolling section"
               }
             ]
           },
@@ -92,11 +92,11 @@
                 {
                   "type": "image",
                   "class": "carousel_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/homer.jpg"
+                  "url": "http://pngimg.com/uploads/spider_man/spider_man_PNG57.png"
                 },
                 {
                   "type": "label",
-                  "text": "Homer Simpson",
+                  "text": "Spider-Man",
                   "class": "username center"
                 },
                 {
@@ -104,7 +104,7 @@
                   "text": "Meow",
                   "style": {
                     "background": "rgb(100, 149, 237)",
-                    "color": "#ffffff",
+                    "color": "#000000",
                     "align": "center",
                     "width": "150",
                     "height": "40"
