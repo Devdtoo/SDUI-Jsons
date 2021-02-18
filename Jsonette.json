@@ -38,11 +38,11 @@
     },
     "body": {
       "style": {
-        "background": "#ECA73E"
+        "background": "#ffffff"
       },
       "header": {
         "style": {
-          "background": "#ECA73E"
+          "background": "#ffffff"
         },
         "menu": {
           "text": "View JSON",
@@ -59,7 +59,7 @@
             "type": "horizontal",
             "style": {
               "align": "center",
-              "background": "#ECA73E",
+              "background": "#ffffff",
               "opacity": "0.2",
               "spacing": "10"
             },
