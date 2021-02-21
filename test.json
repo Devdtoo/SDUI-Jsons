@@ -30,7 +30,8 @@
                               "align": "center",
                               "color": "#ffffff",
                               "border_color": "#ffffff",
-                              "border_width": "2"
+                              "border_width": "2",
+                              "width": "150"
                            }
                         }
                      ]
