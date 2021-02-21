@@ -27,7 +27,10 @@
                            "text":"START",
                            "style": {
                               "corner_radius": "30",
-                              "align": "center"
+                              "align": "center",
+                              "color": "#ffffff"
+                              "border_color": "#ffffff",
+                              "border_width": "2"
                            }
                         }
                      ]
