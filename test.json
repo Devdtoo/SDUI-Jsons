@@ -9,6 +9,9 @@
          },
          "sections":[
             {
+               "style": {
+                  "align": "center"
+               },
                "items":[
                   {
                      "type":"vertical",
