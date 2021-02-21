@@ -37,6 +37,7 @@
       }
     },
     "body": {
+      "background": "https://devdtoo.github.io/SDUI-Jsons/background.png",
       "style": {
         "background": "#ECA73E"
       },
