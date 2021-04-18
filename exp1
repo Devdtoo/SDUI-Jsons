@@ -1,0 +1,55 @@
+{
+   "$jason":{
+      "head":{
+         "title":"vertical layout demo"
+      },
+      "body":{
+       "header": {
+        "title": "How can I help you?",
+        "style": {
+          "background": "#8bb92d",
+          "color": "#ffffff",
+          "font": "AvenirNext-Bold",
+          "size": "14"
+        },
+         "style":{
+            "background":"https://devdtoo.github.io/SDUI-Jsons/background.png"
+         },
+         "sections":[
+            {
+               "style": {
+                  "align": "center"
+               },
+               "items":[
+                  {
+                     "type":"vertical",
+                     "components":[
+                        {
+                           "type":"label",
+                           "text":"Hello",
+                           "style": {
+                              "size": "30",
+                              "color": "#ffffff",
+                              "align": "center"
+                           }
+                        },
+                        {
+                           "type":"button",
+                           "text":"START",
+                           "style": {
+                              "corner_radius": "30",
+                              "align": "center",
+                              "color": "#ffffff",
+                              "border_color": "#ffffff",
+                              "border_width": "2",
+                              "width": "150"
+                           }
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   }
+}
