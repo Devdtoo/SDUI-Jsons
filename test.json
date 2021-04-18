@@ -4,6 +4,14 @@
          "title":"vertical layout demo"
       },
       "body":{
+       "header": {
+        "title": "How can I help you?",
+        "style": {
+          "background": "#8bb92d",
+          "color": "#ffffff",
+          "font": "AvenirNext-Bold",
+          "size": "14"
+        },
          "style":{
             "background":"https://devdtoo.github.io/SDUI-Jsons/background.png"
          },
@@ -45,3 +53,4 @@
       }
    }
 }
+
