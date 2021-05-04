@@ -29,6 +29,9 @@
                         {
                            "type":"button",
                            "text":"START",
+                           "href": {
+                              "url": "https://devdtoo.github.io/SDUI-Jsons/Superheroes.json"
+                           },
                            "style": {
                               "corner_radius": "30",
                               "align": "center",
