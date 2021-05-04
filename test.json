@@ -6,6 +6,7 @@
       "body":{
          "style":{
             "background":"https://devdtoo.github.io/SDUI-Jsons/background.png"
+            "border": "none"
          },
          "sections":[
             {
@@ -15,6 +16,16 @@
                "items":[
                   {
                      "type":"vertical",
+                     {
+                        "style": {
+                                    "padding_top": 48,
+                                    "padding_right": 128,
+                                    "padding_bottom": 48,
+                                    "padding_left": 128,
+                                    "size": 48,
+                                    "align": "center",
+                                    "border": "none
+                                 },
                      "components":[
                         {
                            "type":"label",
