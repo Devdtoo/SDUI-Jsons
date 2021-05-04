@@ -5,7 +5,7 @@
       },
       "body":{
          "style":{
-            "background":"https://devdtoo.github.io/SDUI-Jsons/background.png"
+            "background":"https://devdtoo.github.io/SDUI-Jsons/background.png",
             "border": "none"
          },
          "sections":[
