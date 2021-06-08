@@ -1,7 +1,9 @@
 {
   "$jason": {
+    "head": {
+      "offline": "true"
+    },
     "body": {
-      "offline": "true",
       "style": {
         "background": "#233340",
         "border": "none"
