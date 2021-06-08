@@ -1,0 +1,82 @@
+{
+  "$jason": {
+    "body": {
+      "style": {
+        "background": "#233340",
+        "border": "none"
+      },
+      "sections": [
+        {
+          "items": [
+            {
+              "style": {
+                "padding_top": 48,
+                "padding_right": 128,
+                "padding_bottom": 48,
+                "padding_left": 128,
+                "color": "#f4f7f7",
+                "size": 48,
+                "align": "center"
+              },
+              "ref": "h1",
+              "type": "label",
+              "text": "JBL Headphone Description",
+              "components": [
+                {
+                  "type": "label",
+                  "text": "JBL Headphone Description"
+                }
+              ]
+            },
+            {
+              "type": "conversation",
+              "pepper_chat": {
+                "output": "لقد كانت JBL علامة تجارية معروفة بجودة الصوت",
+                "error": "عذرا ، المنتج الذي تبحث عنه غير متوفر\n",
+                "conversations": [
+                  {
+                    "conversationId": 12,
+                    "chat": {
+                      "input": [
+                        "جهاز أيفون عشرة",
+                        "جهاز أيفون إحدى عشر\n",
+                        "جهاز أيفون إثنا عشر\n"
+                      ],
+                      "nextScreen": {
+                        "id": "616"
+                      }
+                    }
+                  },
+                  {
+                    "conversationId": 13,
+                    "chat": {
+                      "input": [
+                        "جهاز ماكبوك هواء\n",
+                        "جهاز ماكبوك طليعة",
+                        "شبابيك"
+                      ],
+                      "nextScreen": {
+                        "id": "599"
+                      }
+                    }
+                  },
+                  {
+                    "conversationId": 14,
+                    "chat": {
+                      "input": [
+                        "سماعات جاي بي ال"
+                      ],
+                      "nextScreen": {
+                        "id": "610"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
